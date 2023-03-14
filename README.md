@@ -1,2 +1,2 @@
 # me-and-my-friends
-I use this repository to share homework answers with my friends, yup.
+Disclaimer: Most of the code here are written in a hurry and does not represent my true coding ability.
